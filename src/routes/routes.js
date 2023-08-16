@@ -5,5 +5,5 @@ router.get('/clientes', (req, res) => {
         ok: 123
     })
 })
-
+ 
 module.exports = router
